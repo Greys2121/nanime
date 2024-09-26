@@ -103,6 +103,7 @@ function toggleParticles() {
 
 // Button functions
 function JJK() {
+    window.location.href = "index.jjk"; // Redirects to index.jjk page
 }
 
 function redirectToGames() {
