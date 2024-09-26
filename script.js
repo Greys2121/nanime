@@ -102,15 +102,7 @@ function toggleParticles() {
 }
 
 // Button functions
-function loadNewWebsite() {
-    var url = prompt('What site do you want to replace this page with?');
-    var prefix = 'https://';
-    if (url && url.substr(0, prefix.length) !== prefix) {
-        url = prefix + url;
-    }
-    if (url) {
-        window.location.replace(url);
-    }
+function JJK() {
 }
 
 function redirectToGames() {
